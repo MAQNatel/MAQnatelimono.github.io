@@ -833,6 +833,21 @@ p{
 }
 
 /*sustainability section*/
+.sustainability-btn-primary {
+  background-color: #6E9E8E;
+  border: solid 2px #6E9E8E;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  margin-top: 0.5rem;
+}
+.sustainability-btn-primary:hover{
+  background-color: white;
+  color: #6E9E8E;
+  border: 2px solid #6E9E8E;
+}
 
 .sustainability-section-header {
   font-weight: 700;
